@@ -68,7 +68,7 @@
   margin-top: 60px;
   background-color: rgb(255, 255, 255);
 }
-.formflexer input{
+.formflexer input {
   padding-left: 20px;
   width: 31%;
   /* border-radius: 10%; */
@@ -95,7 +95,7 @@ form input {
   margin: 30px;
   color: grey;
 }
-#department{
+#department {
   color: grey;
   padding-left: 20px;
   margin: 30px;
@@ -104,75 +104,73 @@ form input {
   /* border-style: ; */
   box-sizing: border-box;
   height: 59px;
-
 }
-.formWrapper h4{
+.formWrapper h4 {
   padding-left: 36px;
   font-size: 20px;
   margin-bottom: 0px;
 }
-.bodypadding{
+.bodypadding {
   padding-left: 60px;
   padding-right: 60px;
 }
 
-.toptopbar{
+.toptopbar {
   /* float: left; */
   width: 100%;
   height: 40px;
-  background-color: #F5F5F5;
+  background-color: #f5f5f5;
 }
-.topfollowus{
+.topfollowus {
   float: left;
   padding-left: 72px;
   padding-top: 8px;
 }
-.topsocials{
+.topsocials {
   padding-left: 15px;
   float: left;
   padding-top: 6px;
-
 }
-.topcontact{
+.topcontact {
   float: right;
 }
 /* .topphonenum{
   float: right;
 } */
-.topphoneimg{
+.topphoneimg {
   padding-right: 20px;
   float: right;
   padding-top: 8px;
 }
-.section01wrapper{
+.section01wrapper {
   width: 100%;
   /* background-color: black; */
 }
-.section01{
+.section01 {
   /* position: relative; */
 }
-.section01flexwrapper{
+.section01flexwrapper {
   display: flex;
   /* background-color: blue; */
   width: 100%;
   /* padding: 10px; */
 }
-.section01individualsection{
+.section01individualsection {
   padding: 15px;
 }
-.section01individualsection img{
+.section01individualsection img {
   width: 100%;
 }
-.section02flexwrapper{
+.section02flexwrapper {
   display: flex;
-  background-color: #E8F9F6;
+  background-color: #e8f9f6;
   width: 100%;
 }
-.section02fleximgwrapper{
+.section02fleximgwrapper {
   width: 65%;
   flex: 1;
 }
-.section02rightcontentWrapper{
+.section02rightcontentWrapper {
   flex: 2;
   list-style-image: url(/Assignment03gg/tickforlist.png);
   /* list-style-position: inside; */
@@ -182,21 +180,20 @@ form input {
   padding-top: 160px;
 }
 
-.section02rightcontentWrapper li{
+.section02rightcontentWrapper li {
   padding-bottom: 20px;
 }
 
-
-.mail{
+.mail {
   padding-right: 80px;
 }
-.section03Heading{
+.section03Heading {
   margin-bottom: 0px;
   text-align: center;
 }
-.section03Heading p{
- padding-top: 10px;
+.section03Heading p {
+  padding-top: 10px;
 }
-.section03contentWrapper{
+.section03contentWrapper {
   display: flex;
 }
