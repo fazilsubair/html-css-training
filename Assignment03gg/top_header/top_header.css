@@ -237,3 +237,87 @@ form input {
   width: 95%;
   /* padding: 20px; */
 }
+.section05wrapper {
+  width: 100%;
+  /* background-color: black; */
+}
+
+.section05flexwrapper {
+  display: flex;
+  /* background-color: blue; */
+  width: 100%;
+  /* padding: 10px; */
+}
+.section05individualsection {
+  padding: 15px;
+}
+.section05individualsection img {
+  width: 100%;
+}
+.section05 h2{
+  text-align: center;
+}
+.section05bluebox{
+  margin-left: -60px;
+  background-color: #EAF2FF;
+  width: 109%;
+  height: 500px;
+  margin-top: -250px;
+  text-align: left;
+  padding-top: 20%;
+}
+.section05blueboxwhitebox{
+  margin-left: 15%;
+  width: 70%;
+  background-color: rgb(255, 255, 255);
+  height: 25%;
+  display: flex;
+}
+.section05blueboxwhitebox input{
+  /* padding-left: 45%; */
+  margin-top: 30%;
+  padding-top: 5px;
+  border: 0px 20px 1px 3px;
+  border-bottom: 1px;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-left-width: 0px;
+  border-left-style: solid;
+  border-top-width: 0px;
+  border-top-style: solid;
+  border-right-width: 0px;
+  border-right-style: solid;
+}
+
+.section05blueboxwhitebox h3{
+  margin-top: 4%;
+  padding-left: 30px;
+  height: 61.583px;
+  width: 210.25px;
+}
+.section05blueboxwhiteboxinputbutton{
+  margin-left: 50%;
+  display: flex
+  
+}
+.button6 {
+  /*  */
+  text-align: center;
+  border: none;
+  /* width: 140px; */
+  height: 25px;
+  border-radius: 6px;
+  background-color: #17c1a3;
+  color: white;
+  /* display: flex; */
+  /* margin-left: 45%; */
+  margin-top: 62px;
+  margin-bottom: 34px;
+  margin-left: -37%;
+}
+.section05blueboxwhiteboxinputbutton input{
+  margin-top: 55px;
+  margin-bottom: 34px;
+  width: 270px;
+  
+}
