@@ -1,0 +1,78 @@
+.top {
+  display: flex;
+  background-color: black;
+  height: 200px;
+}
+.nameWrapper {
+  margin-top: 20px;
+  margin-right: 5%;
+  margin-left: -13%;
+  height: 150px;
+  width: 100%;
+  background-color: #2427c5;
+  border-radius: 25px;
+}
+.top img {
+    margin-top: 20px;
+    width: 150px;
+    height: 150px;
+  z-index: 99;
+  border-radius: 50%;
+  
+}
+.name {
+  margin-left: 24%;
+  color: white;
+  margin-bottom: -20px;
+  
+}
+.bottom {
+  display: flex;
+}
+.leftTextWrapper {
+  margin-left: 8%;
+}
+.skillsWrapper {
+  margin-top: 20px;
+  margin-right: 20%;
+  border: 1px solid white;
+}
+.right {
+    padding-left: 30px;
+    /* margin-left: 30px; */
+  background-color: white;
+  flex: 75%;
+}
+#skills{
+    margin-top: 5px;
+    text-align: center;
+}
+.left {
+  color: white;
+  flex: 25%;
+  background-color: black;
+  /* margin-bottom: 1%; */
+}
+
+.leftbottommargin {
+  margin-bottom: 1%;
+}
+table, th, td {
+    border: 3px solid white;
+    border-collapse: collapse;
+    background-color: #caf0f8
+  }
+.projectTable {
+  width: 70%;
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+.educationTable{
+    width: 70%;
+    border-collapse: collapse;
+    border-color: white;
+    
+}
+/* th{
+    background-color: green;
+} */

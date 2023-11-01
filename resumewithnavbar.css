@@ -1,0 +1,108 @@
+.top {
+    display: flex;
+    background-color: black;
+    height: 600px
+  }
+  .nameWrapper {
+    margin-top: 20px;
+    margin-right: 5%;
+    margin-left: -20%;
+    height: 75%;
+    width: 100%;
+    background-color: #2427c5;
+    border-radius: 25px;
+  }
+  .top img {
+      margin-top: 70px;
+      width: 300px;
+      height: 300px;
+    z-index: 99;
+    border-radius: 50%;
+    
+  }
+  .name {
+    text-align: justify;
+    margin-top: 70px;
+    margin-left: 24%;
+    color: white;
+    margin-bottom: -60px;
+    
+  }
+  .bottom {
+    display: flex;
+  }
+  .leftTextWrapper {
+    margin-left: 8%;
+  }
+  .skillsWrapper {
+    margin-top: 20px;
+    margin-right: 20%;
+    border: 1px solid white;
+  }
+  .right {
+      padding-left: 30px;
+      /* margin-left: 30px; */
+    background-color: white;
+    flex: 75%;
+  }
+  #skills{
+      margin-top: 5px;
+      text-align: center;
+  }
+  .left {
+    color: white;
+    flex: 25%;
+    background-color: black;
+    /* margin-bottom: 1%; */
+  }
+  
+  .leftbottommargin {
+    margin-bottom: 1%;
+  }
+  table, th, td {
+      border: 3px solid white;
+      border-collapse: collapse;
+      background-color: #caf0f8
+    }
+  .projectTable {
+    width: 70%;
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+  .educationTable{
+      width: 70%;
+      border-collapse: collapse;
+      border-color: white;
+      
+  }
+  .navbar li{
+    display: inline;
+  }
+  /* th{
+      background-color: green;
+  } */
+  footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #111;
+    height: auto;
+    width: 100vw;
+    padding-top: 40px;
+    color: #fff;
+}
+.footer-content{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+.footer-content h3{
+  margin-left: 50%;
+  font-size: 2.1rem;
+  font-weight: 500;
+  text-transform: capitalize;
+  line-height: 3rem;
+}

@@ -1,0 +1,61 @@
+.mainheading {
+        text-align: center;
+        color: white;
+      }
+      body {
+        vertical-align: middle;
+        background-color: rgb(78, 78, 125);
+      }
+      /* #heading2 {
+        background-color: yellow;
+      } */
+      .Heading {
+        color: aliceblue;
+        /* background-color: rgb(63, 57, 57); */
+        text-align: center;
+      }
+      .restheading{
+        text-align: center;
+        color: red;
+      }
+      .text {
+        font-weight: bold;
+        font-style: italic;
+      }
+      .table {
+        border: 20px;
+        background-color: rgb(225, 129, 172);
+      }
+      /* .tabletext{
+        background-color: white;
+      } */
+      .list {
+        font-style: italic;
+      }
+      .list1{
+        border-color: aliceblue;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 20px;
+        background-color: rgb(134, 31, 31);
+      }
+      
+      
+      .list1 li{
+        background-color: rgb(255, 255, 255);
+        padding-bottom: 1px;
+      }
+      .listol{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 0px;
+        background-color: rgb(163, 45, 45);
+      }
+      .list2 li{
+        margin-top: 10px;
+        margin-right: 10px;
+        margin-bottom: 10px;
+
+        background-color: green;
+      }
