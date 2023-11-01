@@ -226,3 +226,14 @@ form input {
   /* display: flex; */
   margin-left: 45%;
 }
+.section04Wrapper h2{
+  text-align: center;
+}
+.section04contentwrapper{
+  display: flex;
+  /* width: 10%; */
+}
+.section04contentwrapper img{
+  width: 95%;
+  /* padding: 20px; */
+}
